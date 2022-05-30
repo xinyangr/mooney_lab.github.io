@@ -14,14 +14,15 @@ Inquiries can be directed to [sjm2186@uw.edu](mailto:sjm2186@uw.edu).
 ## Directions
 
 {% capture text %}
-We are part of the [Department of Epidemiology ](https://epi.washington.edu/) and [Harborview Injury Prevention & Research Center](https://hiprc.org/) at University of Washington.
+We are part of the [Department of Epidemiology](https://epi.washington.edu/) and [Harborview Injury Prevention & Research Center](https://hiprc.org/) at University of Washington. 
 
+Address: Patricia Bracelin Steel Memorial Building 401 Broadway, 4th Floor Seattle, WA 98122 [[map](https://goo.gl/maps/TJUNT9x6583RAJK88)]
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
+  image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.commercialcafe.com%2Fcommercial-property%2Fus%2Fwa%2Fseattle%2Fpatricia-bracelin-steel-building%2F&psig=AOvVaw2RW5T3LOLCprG3RuAmhveS&ust=1654040196688000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjW6ZmyiPgCFQAAAAAdAAAAABAD"
   headline=""
   text=text
 %}
