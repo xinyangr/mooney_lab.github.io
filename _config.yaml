@@ -1,0 +1,70 @@
+### basic settings
+
+# site properties and page defaults
+title: "Fong Lab"
+description: Fong Lab @ Georgia Tech & Emory BME
+logo: images/fong-lab.png
+header: images/pipets.jpg
+footer: images/pipets.jpg
+baseurl: /
+
+# site social media and other links
+links:
+  email: ming-fai.fong@bme.gatech.edu
+  google-scholar: xlVG6IUAAAAJ&hl
+  twitter: mingfaifong
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+### advanced settings
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
