@@ -6,7 +6,7 @@ nav:
 
 # <i class="fas fa-paper-plane"></i>Contact
 
-Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
+Inquiries can be directed to [sjm2186@uw.edu](mailto:sjm2186@uw.edu).
 {:.center}
 
 {% include section.html %}
@@ -14,9 +14,8 @@ Inquiries can be directed to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong
 ## Directions
 
 {% capture text %}
-We are part of the [Coulter Department of Biomedical Engineering](https://www.bme.gatech.edu/) at Georgia Tech & Emory.  The lab is located on the Georgia Tech campus on the 3rd floor of the U.A. Whitaker building in Room 3237.  Card access is required for entry to lab spaces.
+We are part of the [Department of Epidemiology ](https://epi.washington.edu/) and [Harborview Injury Prevention & Research Center](https://hiprc.org/) at University of Washington.
 
-Address: 313 Ferst Drive, Room 3237, Atlanta, GA 30318 [[map](https://www.google.com/maps/place/U.A.+Whitaker+Building/@33.7783711,-84.3969727,15z)]
 
 {% endcapture %}
 

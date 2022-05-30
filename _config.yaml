@@ -1,18 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: "Fong Lab"
-description: Fong Lab @ Georgia Tech & Emory BME
-logo: images/fong-lab.png
-header: images/pipets.jpg
-footer: images/pipets.jpg
+title: "Mooney Lab"
+description: Mooney Lab @ UW Epi
+logo: images/Mooney-Lab.png
+header: images/uw_epi.png
+footer: images/uw_epi.png
 baseurl: /
 
 # site social media and other links
 links:
-  email: ming-fai.fong@bme.gatech.edu
-  google-scholar: xlVG6IUAAAAJ&hl
-  twitter: mingfaifong
+  email: sjm2186@uw.edu
+  google-scholar: Sd7opuwAAAAJ&hl=en
+  twitter: smooney27
 
 # automatic citations
 auto-cite:
