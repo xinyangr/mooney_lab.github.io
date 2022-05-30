@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# Welcome to the Fong Lab
+# Welcome to the Mooney Lab
 
-The Fong Lab seeks to understand how activity and experience shape neural circuits, and to develop plasticity-based technologies for treating neurological disorders. Toward this goal, we use a variety of approaches including electrophysiology, optogenetics, behavior, modeling, and control systems engineering. Current work focuses on the central visual pathway and neurodevelopmental visual impairment. Our research benefits from synergistic interactions between life scientists, engineers, and clinicians.
+The Mooney Lab seeks to understand how cities affect health, and how we can know whether they do. Our research focuses on built environment influences on pedestrian injury and physical activity, augmented with a stable of side projects digging into epidemiologic methodology.
