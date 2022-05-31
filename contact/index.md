@@ -22,7 +22,7 @@ Address: Patricia Bracelin Steel Memorial Building 401 Broadway, 4th Floor Seatt
 
 {%
   include feature.html
-  image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.commercialcafe.com%2Fcommercial-property%2Fus%2Fwa%2Fseattle%2Fpatricia-bracelin-steel-building%2F&psig=AOvVaw2RW5T3LOLCprG3RuAmhveS&ust=1654040196688000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjW6ZmyiPgCFQAAAAAdAAAAABAD"
+  image="images/address.jpeg"
   headline=""
   text=text
 %}

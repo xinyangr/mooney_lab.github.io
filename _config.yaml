@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: "Mooney Lab"
 description: Mooney Lab @ UW Epi
-logo: images/Mooney-Lab.png
+logo: images/mooney-lab.png
 header: images/uw_epi.png
 footer: images/uw_epi.png
 baseurl: /
