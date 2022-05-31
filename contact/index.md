@@ -23,6 +23,6 @@ Address: Patricia Bracelin Steel Memorial Building 401 Broadway, 4th Floor Seatt
 {%
   include feature.html
   image="images/address.jpeg"
-  headline=""
+  headline="Patricia Bracelin Steel Memorial Building"
   text=text
 %}
