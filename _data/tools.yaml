@@ -1,34 +1,16 @@
-- name: Cool Dataset
+- name: Automatic Context Measurement Tool (ACMT)
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/ACMT.png
+  link: https://docs.google.com/document/d/18Sii8PldC54C8CERQISAp-jB3ucqhi_GnxlJ7jyaP9U/edit#
+  description: ACMT facilitates researchers to efficiently compile, attribute to individuals, and analyze environmental measures drawn from free and nationally available datasets such as the US Census and the National Land Cover 
+Database.  AMCT is written in R and distributed with Docker. A description of ACMT is available at https://docs.google.com/document/d/18Sii8PldC54C8CERQISAp-jB3ucqhi_GnxlJ7jyaP9U/edit#. To try a demo of ACMT, go to https://acmt.csde.washington.edu/. 
+  repo: renxinyang/mooney_lab.github.io
 
-- name: Cool Package
+- name: rwalkbout
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/research/closed-loop-visual-system.png
+  link: https://github.com/2533245542/rwalkbout
+  description: rwalkbout is an R package that automatically extracts walkbouts from accelerometry and GPS data. rwalkbout is available at https://github.com/2533245542/rwalkbout. 
+  repo: renxinyang/mooney_lab.github.io
 
-- name: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
 
-- name: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
