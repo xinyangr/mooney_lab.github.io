@@ -1,7 +1,7 @@
 ---
 title: Join
 nav:
-  order: 5
+  order: 6
 ---
 
 # <i class="fas fa-hands-helping"></i>Join our team
