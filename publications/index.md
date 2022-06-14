@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 3
+  order: 4
 ---
 
 # <i class="fas fa-file-signature"></i>Publications
