@@ -4,8 +4,7 @@
   link: https://docs.google.com/document/d/18Sii8PldC54C8CERQISAp-jB3ucqhi_GnxlJ7jyaP9U/edit#
   description: ACMT facilitates researchers to efficiently compile, attribute to individuals, and analyze environmental measures drawn from free and nationally available datasets such as the US Census and the National Land Cover Database.  AMCT is written in R and distributed with Docker. A description of ACMT is available at [here](https://docs.google.com/document/d/18Sii8PldC54C8CERQISAp-jB3ucqhi_GnxlJ7jyaP9U/edit#). To try a demo of ACMT, go to [here](https://acmt.csde.washington.edu/). 
   repo: renxinyang/mooney_lab.github.io
-  tags:
-    - resource
+
 
 - name: rwalkbout
   group: featured
@@ -13,7 +12,5 @@
   link: https://github.com/2533245542/rwalkbout
   description: rwalkbout is an R package that automatically extracts walkbouts from accelerometry and GPS data. rwalkbout is available at [here](https://github.com/2533245542/rwalkbout). 
   repo: renxinyang/mooney_lab.github.io
-  tags:
-    - resource
 
 
