@@ -1,7 +1,7 @@
 ---
 title: People
 nav:
-  order: 3
+  order: 2
 ---
 
 # <i class="fas fa-users"></i>People
