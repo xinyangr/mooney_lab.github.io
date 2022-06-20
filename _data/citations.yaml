@@ -21,7 +21,7 @@
   publisher: Epidemiology
   date: '2022-05-20'
   link: https://doi.org/gqbzp8
-  image: ../images/publications/hanes2020-jneuro_thumbnail.png
+  image: ../images/publications/paper.png
 - id: doi:10.1016/j.ypmed.2022.107068
   title: 'Wage theft and life expectancy inequities in the United States: A simulation
     study'
@@ -37,7 +37,7 @@
   publisher: Preventive Medicine
   date: '2022-06-01'
   link: https://doi.org/gqbzp9
-  image: ../images/publications/fong-duffy2021-elife_thumbnail.png
+  image: ../images/publications/paper.png
 - id: doi:10.1093/aje/kwac003
   title: "<i>TWO STUDY DESIGNS WALK INTO A BAR\u2026</i>"
   authors:
@@ -46,7 +46,7 @@
   publisher: American Journal of Epidemiology
   date: '2022-01-11'
   link: https://doi.org/gqbzqb
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  image: ../images/publications/paper.png
 - id: doi:10.1016/j.annepidem.2021.12.013
   title: What is the prevalence of drug use in the general population? Simulating
     underreported and unknown use for more accurate national estimates
@@ -59,7 +59,7 @@
   publisher: Annals of Epidemiology
   date: '2022-04-01'
   link: https://doi.org/gqbzqc
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  image: ../images/publications/paper.png
 - id: doi:10.1002/oby.23273
   title: 'From the clinic to the community: Can health system data accurately estimate
     population obesity prevalence?'
@@ -74,7 +74,7 @@
   publisher: Obesity
   date: '2021-10-04'
   link: https://doi.org/gqbzqd
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  image: ../images/publications/paper.png
 - id: doi:10.1093/aje/kwab219
   title: 'G-Computation and Agent-Based Modeling for Social Epidemiology: Can Population
     Interventions Prevent Posttraumatic Stress Disorder?'
@@ -87,7 +87,7 @@
   publisher: American Journal of Epidemiology
   date: '2021-08-18'
   link: https://doi.org/gqbzqf
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  image: ../images/publications/paper.png
 - id: doi:10.1177/0049124118769103
   title: Using Universal Kriging to Improve Neighborhood Physical Disorder Measurement
   authors:
@@ -100,4 +100,7 @@
   publisher: Sociological Methods &amp; Research
   date: '2018-05-06'
   link: https://doi.org/gfwsfq
-  image: ../images/publications/fong2020-cerebctx_thumbnail.png
+  image: ../images/publications/paper.png
+  tags:
+  - physical disorder
+  - urban health
