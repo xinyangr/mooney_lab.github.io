@@ -8,7 +8,7 @@
 
 - name: rwalkbout
   group: featured
-  image: images/research/closed-loop-visual-system.png
+  image: images/tools/walkbout.png
   link: https://github.com/2533245542/rwalkbout
   description: rwalkbout is an R package that automatically extracts walkbouts from accelerometry and GPS data. rwalkbout is available at [here](https://github.com/2533245542/rwalkbout). 
   repo: renxinyang/mooney_lab.github.io
