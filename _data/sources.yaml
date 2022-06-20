@@ -1,23 +1,23 @@
 - id: doi:10.1097/EDE.0000000000001505
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
 
 - id: doi:10.1016/j.ypmed.2022.107068
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
 
 - id: doi:10.1093/aje/kwac003
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
 
 - id: doi:10.1016/j.annepidem.2021.12.013
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
 
 - id: doi:10.1002/oby.23273
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
 
 - id: doi:10.1093/aje/kwab219
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
   
 - id: doi:10.1177/0049124118769103
-  image: ../images/publications/paper.png
+  image: images/publications/paper.png
   tags:
     - physical disorder
     - urban health
