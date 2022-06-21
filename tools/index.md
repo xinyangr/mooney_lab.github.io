@@ -5,7 +5,7 @@ nav:
 ---
 
 # <i class="fas fa-microscope"></i> Tools
-Curretnly, our lab is developing the Automatic Context Measurement Tool (ACMT) and rwalkbout.
+Currently, our lab is developing the Automatic Context Measurement Tool (ACMT) and rwalkbout.
 
 
 {% include section.html %}
